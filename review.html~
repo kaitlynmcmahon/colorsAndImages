@@ -17,19 +17,9 @@
   width: 20%;
   margin: .1em;
   color: white;
-  display: inline-block;
-}
-
-#exercise2 a {
-	text-decoration: none;
-	color: pink;
-	background-color: purple;
 }
 
 #exercise2 a:hover {
-	text-decoration: underline;
-	color: purple;
-	background-color: pink;
 
 }
 </style>

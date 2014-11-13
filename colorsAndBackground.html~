@@ -7,44 +7,42 @@
 <link rel="stylesheet" href="style.css">
 <style>
 #test1 {
-	color: #FF0000;
+
 }
 
 #test2 {
-	color: #00FF00;
+
 }
 
 #test3 {
-	color: #0000FF;
+
 }
 #test4 {
-	color: #9900CC;
+
 }
 
 #swatch1 {
-	color: #00CCBB;
+
 }
 
 #swatch2 {
-	color: #49777D;
+
 }
 
 #swatch3 {
-	color: #123456;
+
 }
 
 #swatch4 {
-	color: #96CCBF;
+
 }
 
 #swatch5 {
-	color: #F2DEC0;
+
 }
 
 #exercise3 {
-	background-image: url("star.png");
-	background-repeat: repeat-y;
-	background-position: 0px 0px, center;
+
 }
 </style>
 </head>
